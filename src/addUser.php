@@ -26,7 +26,7 @@
           }
           else
           {
-              echo "User can not deleted";
+              echo "User can not saved";
           }
       }
   }
